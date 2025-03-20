@@ -4,7 +4,7 @@ Meu nome é Mauro, sou formado em Direito e servidor público no estado do Rio d
 
 Tenho um grande interesse em trabalhar com ferramentas como Power BI e Python, explorando aplicações práticas de Inteligência Artificial e automação de processos. Minha experiência com Excel e meu desejo de entender o potencial de dados e tecnologia são os motores que me impulsionam nessa jornada.
 
-Como iniciante em programação, estou focado em aprender e aplicar conceitos de forma prática e detalhada, sempre buscando simplificar processos e criar soluções eficientes. Atualmente, dedico-me ao estudo de Python e suas aplicações em Data Science, além de aprimorar meu conhecimento em desenvolvimento Backend.
+Como iniciante em programação, estou focado em aprender e aplicar conceitos de forma prática e detalhada, sempre buscando simplificar processos e criar soluções eficientes. Atualmente, dedico-me ao estudo de Python e suas aplicações em Data Science, além de aprimorar meu conhecimento em desenvolvimento Backend e SQL.
 
 Se você compartilha interesses semelhantes ou quer colaborar em projetos, sinta-se à vontade para entrar em contato!
 
