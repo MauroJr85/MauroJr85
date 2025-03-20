@@ -10,10 +10,6 @@ Se você compartilha interesses semelhantes ou quer colaborar em projetos, sinta
 
 
 
-### Estou aprendendo a programar com Python.
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height=60 width = 60/>
-          
 ## Contatos:
 
 <div>
