@@ -44,6 +44,7 @@ Meu objetivo não é apenas aprender programação, mas desenvolver soluções �
 * Linux
 * Windows
 * Cellebrite
+* IPED
 * IA aplicada à automação
 
 ## Atualmente estudando
