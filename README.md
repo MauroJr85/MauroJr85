@@ -1,74 +1,102 @@
-# Olá! Seja bem-vindo ao meu GitHub 👋
+# 👋 Olá! Eu sou Mauro Machado Junior
 
-Meu nome é Mauro Machado Junior. Sou formado em Direito, servidor público no estado do Rio de Janeiro e estudante de Análise e Desenvolvimento de Sistemas, em transição estratégica para a área de Tecnologia da Informação.
+**Direito | Tecnologia | Automação e Melhoria de Processos**
 
-Hoje, meu foco está na interseção entre tecnologia, automação, análise de dados, computação forense e integridade digital.
+Sou bacharel em Direito, pós-graduado em Direito Penal e Processual Penal, servidor público do Estado do Rio de Janeiro e graduando em Análise e Desenvolvimento de Sistemas.
 
-Atuo diretamente com análise de dados extraídos de celulares e computadores em contexto pericial, utilizando ferramentas de investigação digital e preservação de evidências. Nos últimos meses, comecei a desenvolver soluções próprias em Python e PowerShell para automatizar tarefas operacionais, padronizar procedimentos e aumentar a confiabilidade técnica de fluxos relacionados à cadeia de custódia digital.
+Minha trajetória profissional une experiência em atividades jurídicas e administrativas ao interesse pelo desenvolvimento de soluções tecnológicas.
 
-## Áreas de interesse
+Atualmente, concentro meus esforços na **análise e melhoria de processos, desenvolvimento de sistemas, automação de tarefas e aplicação prática da inteligência artificial**.
 
-* Automação de processos
-* Python aplicado a problemas reais
-* Computação Forense
-* Integridade e preservação de evidências digitais
-* Análise de dados
-* Business Intelligence
-* Segurança da Informação
-* LGPD e tecnologia aplicada ao Direito
-* SQL e bancos de dados
-* Inteligência Artificial aplicada à produtividade
+Tenho experiência em análise de dados digitais no contexto de investigações, utilização de ferramentas de computação forense e preservação da integridade de arquivos.
 
-## O que você vai encontrar aqui
+Acredito que a tecnologia deve servir para resolver problemas concretos, simplificar rotinas e tornar os processos mais eficientes, seguros e confiáveis.
 
-Este GitHub representa minha evolução prática na área de tecnologia.
+## 🚀 Projetos e experiências
 
-Aqui compartilho:
+### 🗂️ Sistema de Gestão de Processos Administrativos
 
-* scripts em Python e PowerShell;
-* projetos voltados à automação e produtividade;
-* ferramentas de apoio à preservação e análise de evidências digitais;
-* estudos e experimentos envolvendo dados, segurança e IA;
-* projetos que unem Direito e Tecnologia de forma aplicada.
+Projeto de desenvolvimento de uma aplicação web destinada à organização e ao controle de processos administrativos em ambiente institucional.
 
-Meu objetivo não é apenas aprender programação, mas desenvolver soluções úteis, replicáveis e tecnicamente confiáveis para problemas reais.
+O trabalho envolve:
 
-## Tecnologias e ferramentas
+- Levantamento de requisitos e definição de regras de negócio;
+- Modelagem de dados e desenvolvimento de aplicação web;
+- Controle de acesso, permissões e auditoria;
+- Automação e padronização de fluxos administrativos;
+- Integração e consulta de dados legados;
+- Testes automatizados e práticas de segurança.
 
-* Python
-* PowerShell
-* SQL
-* Excel
-* Power BI
-* Git e GitHub
-* Linux
-* Windows
-* Cellebrite
-* IPED
-* IA aplicada à automação
+**Tecnologias:** Python, Django, MySQL, Bootstrap e Git.
 
-## Atualmente estudando
+*Projeto institucional em fase de preparação para avaliação e homologação. Código-fonte não disponibilizado publicamente.*
 
-* Desenvolvimento Backend
-* Estruturas de dados e lógica de programação
-* Banco de Dados
-* Computação Forense
-* Segurança da Informação
-* Engenharia de prompts e automação com IA
+### 💸 [Finanças em Dia](https://github.com/MauroJr85/dio-lab-vibe-coding-app-financas)
 
-## Contato
+Aplicativo de organização de finanças pessoais desenvolvido como projeto educacional, a partir de um desafio da plataforma DIO, utilizando ferramentas de inteligência artificial e técnicas de Vibe Coding.
 
-Se quiser trocar ideias sobre tecnologia, automação, computação forense, análise de dados ou projetos envolvendo Direito + TI, fique à vontade para entrar em contato.
+O projeto representa uma experiência prática com definição de requisitos, elaboração de prompts, prototipação e desenvolvimento assistido por IA.
 
-Obrigado pela visita! 🚀
+[🌐 Acessar o aplicativo](https://saldo-com-prop.lovable.app/)
 
-## Contatos:
+### 🔐 Automação e Integridade Digital
 
-<div>
-<a href="https://instagram.com/maurojr85" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:mauromachadojunior@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/mauro-jr-33ba82292" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>      
-<a href="https://github.com/MauroJr85" target="_blank">
-  <img loading="lazy" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank">
-</a>
+Estudos e desenvolvimento de scripts e ferramentas para automatização de rotinas operacionais, organização de arquivos e verificação de integridade digital.
+
+Experiência com Python, PowerShell e ferramentas de apoio à análise e à preservação de evidências digitais.
+
+*Parte dessas experiências envolve contextos institucionais e não possui código-fonte público.*
+
+## 🛠️ Tecnologias e ferramentas
+
+**Desenvolvimento e automação**
+- Python
+- Django
+- PowerShell
+- SQL e MySQL
+- HTML e Bootstrap
+
+**Ambientes e ferramentas**
+- Git e GitHub
+- Linux e Windows
+- VS Code
+- Excel
+
+**Inteligência artificial**
+- ChatGPT e OpenAI Codex
+- Lovable
+- Engenharia de prompts
+- Desenvolvimento e automação assistidos por IA
+
+**Experiência em computação forense**
+- Cellebrite / UFED Reader
+- IPED
+- Preservação e verificação de integridade de arquivos digitais
+
+## 🎯 Áreas de interesse
+
+- Análise e melhoria de processos;
+- Desenvolvimento de sistemas e aplicações web;
+- Automação de rotinas administrativas;
+- Análise e estruturação de dados;
+- Segurança de aplicações e controle de acesso;
+- Inteligência artificial aplicada à produtividade;
+- Computação forense e integridade digital.
+
+## 📚 Em constante aprendizado
+
+Atualmente, busco aprofundar meus conhecimentos em desenvolvimento backend, bancos de dados, arquitetura de sistemas, testes automatizados, segurança de aplicações e utilização responsável de inteligência artificial no desenvolvimento de software.
+
+Meu foco é transformar o aprendizado em **projetos funcionais, experiências práticas e soluções para problemas reais**.
+
+## 📫 Contatos
+
+Estou aberto à troca de conhecimentos e experiências sobre tecnologia, automação, dados e desenvolvimento de soluções digitais.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauro-jr-33ba82292)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauromachadojunior@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MauroJr85)
+
+---
+
+*Aprendendo, desenvolvendo e aplicando tecnologia para transformar problemas em soluções.* 🚀
