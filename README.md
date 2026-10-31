@@ -73,6 +73,16 @@ Experiência com Python, PowerShell e ferramentas de apoio à análise e à pres
 - IPED
 - Preservação e verificação de integridade de arquivos digitais
 
+## 🤖 Desenvolvimento assistido por Inteligência Artificial
+
+Utilizo ferramentas de inteligência artificial como apoio ao desenvolvimento de aplicações, automação de processos e resolução de problemas técnicos.
+
+Minha abordagem combina análise de requisitos, definição de regras de negócio, engenharia de prompts, desenvolvimento incremental e validação das soluções implementadas.
+
+Ferramentas como ChatGPT, OpenAI Codex e Lovable fazem parte do meu processo de aprendizado e desenvolvimento, auxiliando na implementação de funcionalidades, revisão de código, documentação e testes.
+
+Busco compreender progressivamente as tecnologias utilizadas, avaliar criticamente os resultados gerados e desenvolver soluções funcionais, seguras e adequadas aos problemas que pretendo resolver.
+
 ## 🎯 Áreas de interesse
 
 - Análise e melhoria de processos;
