@@ -1,112 +1,92 @@
 # 👋 Olá! Eu sou Mauro Machado Junior
 
-**Direito | Tecnologia | Automação e Melhoria de Processos**
+### Direito • Tecnologia • Automação de Processos • Inteligência Artificial
 
-Sou bacharel em Direito, pós-graduado em Direito Penal e Processual Penal, servidor público do Estado do Rio de Janeiro e graduando em Análise e Desenvolvimento de Sistemas.
+Sou bacharel em Direito, pós-graduado em Direito Penal e Processual Penal, servidor público do Estado do Rio de Janeiro e graduando em **Análise e Desenvolvimento de Sistemas**.
 
-Minha trajetória profissional une experiência em atividades jurídicas e administrativas ao interesse pelo desenvolvimento de soluções tecnológicas.
+Minha atuação combina experiência em processos administrativos, análise de requisitos e utilização de tecnologia para solucionar problemas operacionais.
 
-Atualmente, concentro meus esforços na **análise e melhoria de processos, desenvolvimento de sistemas, automação de tarefas e aplicação prática da inteligência artificial**.
+Atualmente, concentro meus estudos e projetos em **automação de processos, desenvolvimento de soluções digitais, análise de dados e inteligência artificial aplicada à produtividade**.
 
-Tenho experiência em análise de dados digitais no contexto de investigações, utilização de ferramentas de computação forense e preservação da integridade de arquivos.
-
-Acredito que a tecnologia deve servir para resolver problemas concretos, simplificar rotinas e tornar os processos mais eficientes, seguros e confiáveis.
-
-## 🚀 Projetos e experiências
-
-### 🗂️ Sistema de Gestão de Processos Administrativos
-
-Projeto de desenvolvimento de uma aplicação web destinada à organização e ao controle de processos administrativos em ambiente institucional.
-
-O trabalho envolve:
-
-- Levantamento de requisitos e definição de regras de negócio;
-- Modelagem de dados e desenvolvimento de aplicação web;
-- Controle de acesso, permissões e auditoria;
-- Automação e padronização de fluxos administrativos;
-- Integração e consulta de dados legados;
-- Testes automatizados e práticas de segurança.
-
-**Tecnologias:** Python, Django, MySQL, Bootstrap e Git.
-
-*Projeto institucional em fase de preparação para avaliação e homologação. Código-fonte não disponibilizado publicamente.*
-
-### 💸 [Finanças em Dia](https://github.com/MauroJr85/dio-lab-vibe-coding-app-financas)
-
-Aplicativo de organização de finanças pessoais desenvolvido como projeto educacional, a partir de um desafio da plataforma DIO, utilizando ferramentas de inteligência artificial e técnicas de Vibe Coding.
-
-O projeto representa uma experiência prática com definição de requisitos, elaboração de prompts, prototipação e desenvolvimento assistido por IA.
-
-[🌐 Acessar o aplicativo](https://saldo-com-prop.lovable.app/)
-
-### 🔐 Automação e Integridade Digital
-
-Estudos e desenvolvimento de scripts e ferramentas para automatização de rotinas operacionais, organização de arquivos e verificação de integridade digital.
-
-Experiência com Python, PowerShell e ferramentas de apoio à análise e à preservação de evidências digitais.
-
-*Parte dessas experiências envolve contextos institucionais e não possui código-fonte público.*
-
-## 🛠️ Tecnologias e ferramentas
-
-**Desenvolvimento e automação**
-- Python
-- Django
-- PowerShell
-- SQL e MySQL
-- HTML e Bootstrap
-
-**Ambientes e ferramentas**
-- Git e GitHub
-- Linux e Windows
-- VS Code
-- Excel
-
-**Inteligência artificial**
-- ChatGPT e OpenAI Codex
-- Lovable
-- Engenharia de prompts
-- Desenvolvimento e automação assistidos por IA
-
-**Experiência em computação forense**
-- Cellebrite / UFED Reader
-- IPED
-- Preservação e verificação de integridade de arquivos digitais
-
-## 🤖 Desenvolvimento assistido por Inteligência Artificial
-
-Utilizo ferramentas de inteligência artificial como apoio ao desenvolvimento de aplicações, automação de processos e resolução de problemas técnicos.
-
-Minha abordagem combina análise de requisitos, definição de regras de negócio, engenharia de prompts, desenvolvimento incremental e validação das soluções implementadas.
-
-Ferramentas como ChatGPT, OpenAI Codex e Lovable fazem parte do meu processo de aprendizado e desenvolvimento, auxiliando na implementação de funcionalidades, revisão de código, documentação e testes.
-
-Busco compreender progressivamente as tecnologias utilizadas, avaliar criticamente os resultados gerados e desenvolver soluções funcionais, seguras e adequadas aos problemas que pretendo resolver.
-
-## 🎯 Áreas de interesse
-
-- Análise e melhoria de processos;
-- Desenvolvimento de sistemas e aplicações web;
-- Automação de rotinas administrativas;
-- Análise e estruturação de dados;
-- Segurança de aplicações e controle de acesso;
-- Inteligência artificial aplicada à produtividade;
-- Computação forense e integridade digital.
-
-## 📚 Em constante aprendizado
-
-Atualmente, busco aprofundar meus conhecimentos em desenvolvimento backend, bancos de dados, arquitetura de sistemas, testes automatizados, segurança de aplicações e utilização responsável de inteligência artificial no desenvolvimento de software.
-
-Meu foco é transformar o aprendizado em **projetos funcionais, experiências práticas e soluções para problemas reais**.
-
-## 📫 Contatos
-
-Estou aberto à troca de conhecimentos e experiências sobre tecnologia, automação, dados e desenvolvimento de soluções digitais.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauro-jr-33ba82292)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauromachadojunior@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MauroJr85)
+Meu objetivo é transformar necessidades reais em soluções funcionais, eficientes e tecnicamente confiáveis.
 
 ---
 
-*Aprendendo, desenvolvendo e aplicando tecnologia para transformar problemas em soluções.* 🚀
+## 🚀 Projetos e experiências
+
+### 🗂️ Desenvolvimento de Sistema de Gestão de Processos
+
+Experiência no desenvolvimento de uma aplicação web para organização, consulta e controle de processos administrativos.
+
+**Principais atividades:**
+- Levantamento de requisitos e definição de regras de negócio;
+- Modelagem de dados e estruturação de fluxos operacionais;
+- Desenvolvimento de funcionalidades com auxílio de IA;
+- Implementação de controles de acesso e registros de auditoria;
+- Integração consultiva de dados legados;
+- Validação funcional, testes automatizados e revisão de segurança.
+
+**Tecnologias:** Python, Django, MySQL, Bootstrap e Git.
+
+*Experiência em contexto institucional. Código-fonte não disponibilizado publicamente.*
+
+### 💸 [Finanças em Dia](https://github.com/MauroJr85/dio-lab-vibe-coding-app-financas)
+
+Aplicativo educacional de organização financeira desenvolvido a partir de um desafio da **DIO**, com utilização de ferramentas de inteligência artificial e técnicas de Vibe Coding.
+
+O projeto envolve definição e adaptação de funcionalidades, elaboração de prompts, prototipação e validação da aplicação.
+
+**[🌐 Experimentar o aplicativo](https://saldo-com-prop.lovable.app/)**
+
+### 🔐 Automação e Integridade Digital
+
+Experiência com ferramentas de computação forense, análise de dados digitais e preservação da integridade de arquivos.
+
+Desenvolvimento e experimentação com scripts em Python e PowerShell para automatização de tarefas e padronização de procedimentos.
+
+*Parte dessas experiências envolve atividades institucionais e não possui código público.*
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+| Área | Tecnologias e ferramentas |
+|---|---|
+| Desenvolvimento | Python, Django, HTML, Bootstrap |
+| Automação | PowerShell, Python, IA |
+| Dados | SQL, MySQL, Excel |
+| Ferramentas | Git, GitHub, VS Code |
+| Ambientes | Linux, Windows |
+| Inteligência Artificial | ChatGPT, OpenAI Codex, Lovable |
+| Computação Forense | Cellebrite, UFED Reader, IPED |
+
+---
+
+## 🤖 Minha abordagem com Inteligência Artificial
+
+Utilizo a IA como ferramenta de apoio à análise, ao desenvolvimento e à automação de processos.
+
+Minha abordagem combina **compreensão do problema, definição de requisitos, elaboração de prompts, desenvolvimento incremental e validação dos resultados**.
+
+Busco aprimorar continuamente meus conhecimentos técnicos para utilizar essas ferramentas de forma crítica, responsável e produtiva.
+
+---
+
+## 📚 Aprendizado e desenvolvimento contínuo
+
+Atualmente, aprofundo meus estudos em desenvolvimento backend, modelagem de dados, arquitetura de sistemas, segurança de aplicações e automação assistida por IA.
+
+Tenho especial interesse em projetos que conectem **tecnologia, processos, dados e necessidades organizacionais**.
+
+---
+
+## 📫 Vamos nos conectar?
+
+Tenho interesse em trocar experiências sobre tecnologia, análise de processos, automação, dados e desenvolvimento de soluções assistidas por IA.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauro-jr-33ba82292)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauromachadojunior@gmail.com)
+
+---
+
+*Tecnologia aplicada a problemas reais, com aprendizado contínuo e foco em soluções.* 🚀
